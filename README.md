@@ -1,6 +1,6 @@
 # Credit Card Anomaly Detection
 
-![Image_Alt](CreditCardAnomalyDetection.jpg)
+![Image_Alt](https://github.com/vaibhavkora/Credit_Card_Anomaly_Detections/blob/14e73908af9383af6ce9803e2237b42cb76653ec/Credit%20_Card_Anomaly_Detection.png)
 
 # 📌Overview
 This project focuses on identifying fraudulent credit card transactions using machine learning techniques. The goal is to help credit card companies detect fraud efficiently, preventing unauthorized charges to customers. The dataset used is from Kaggle, featuring transactions by European cardholders in September 2013, with a highly imbalanced class distribution (frauds account for only 0.172% of transactions).
