@@ -61,18 +61,19 @@ The project uses the following Python libraries:
 # 📊Results
 **Observations**
 - **Unsupervised Models:**
-- Isolation Forest: Detected 747 errors, 99.73% accuracy, ~28% fraud detection rate.
-- Local Outlier Factor (LOF): Detected 4600 errors, 98.38% accuracy, ~2% fraud detection rate.
-- One-Class SVM: Detected 8516 errors, 70.09% accuracy, 0% fraud detection rate.
-- Conclusion: Isolation Forest outperformed LOF and SVM in both accuracy and fraud detection.
+   - Isolation Forest: Detected 747 errors, 99.73% accuracy, ~28% fraud detection rate.
+   - Local Outlier Factor (LOF): Detected 4600 errors, 98.38% accuracy, ~2% fraud detection rate.
+   - One-Class SVM: Detected 8516 errors, 70.09% accuracy, 0% fraud detection rate.
+   - Conclusion: Isolation Forest outperformed LOF and SVM in both accuracy and fraud detection.
 - **Supervised Models:**
-- Logistic Regression: 99.89% accuracy.
-- Decision Tree: 99.92% accuracy.
-- Random Forest: 99.92% accuracy.
-- XGBoost: Comparable performance to Random Forest.
+   - Logistic Regression: 99.89% accuracy.
+   - Decision Tree: 99.92% accuracy.
+   - Random Forest: 99.92% accuracy.
+   - XGBoost: Comparable performance to Random Forest.
 - **Insights:**
-- Isolation Forest is the most effective for this imbalanced dataset.
-- Accuracy can be improved by increasing sample size, using deep learning, or employing complex anomaly detection models (at the cost of computational resources).
+  - Isolation Forest is the most effective for this imbalanced dataset.
+  - Accuracy can be improved by increasing sample size, using deep learning, or employing complex anomaly 
+    detection models (at the cost of computational resources).
 
   # 🚀Future Work
 - Increase sample size for better accuracy.
